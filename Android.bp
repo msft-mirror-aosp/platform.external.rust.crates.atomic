@@ -62,8 +62,8 @@ rust_library {
         "has_atomic_u8",
     ],
     apex_available: [
+        "//apex_available:anyapex",
         "//apex_available:platform",
-        "com.android.virt",
     ],
     product_available: true,
     vendor_available: true,
