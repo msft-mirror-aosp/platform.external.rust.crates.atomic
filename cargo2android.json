@@ -1,12 +1,6 @@
 {
-  "apex-available": [
-    "//apex_available:anyapex",
-    "//apex_available:platform"
-  ],
   "dependencies": true,
   "device": true,
   "features": "fallback,std",
-  "run": true,
-  "vendor-available": true,
-  "product-available": true
+  "run": true
 }
